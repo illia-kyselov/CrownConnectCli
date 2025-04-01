@@ -210,7 +210,7 @@ const styles = StyleSheet.create({
         backgroundColor: '#000000',
     },
     header: {
-        backgroundColor: '#181818',
+        backgroundColor: '#131313',
         borderBottomRightRadius: 16,
         borderBottomLeftRadius: 16,
         padding: 16,
@@ -230,8 +230,8 @@ const styles = StyleSheet.create({
     },
     tagItem: {
         height: 35,
-        borderRadius: 12,
-        backgroundColor: '#292929',
+        borderRadius: 14,
+        backgroundColor: '#212121',
         paddingHorizontal: 12,
         justifyContent: 'center',
         alignItems: 'center',
@@ -240,7 +240,7 @@ const styles = StyleSheet.create({
         fontFamily: 'SF Pro Text',
         fontWeight: '400',
         fontSize: 16,
-        color: '#999999',
+        color: '#a9a9a9',
     },
     activeTagItem: {
         backgroundColor: '#FFFFFF',
@@ -250,8 +250,8 @@ const styles = StyleSheet.create({
     },
     tabContainer: {
         height: 40,
-        borderRadius: 12,
-        backgroundColor: '#292929',
+        borderRadius: 14,
+        backgroundColor: '#212121',
         padding: 2,
         flexDirection: 'row',
         alignItems: 'center',
@@ -260,7 +260,7 @@ const styles = StyleSheet.create({
     tabButton: {
         flex: 1,
         height: 36,
-        borderRadius: 12,
+        borderRadius: 14,
         justifyContent: 'center',
         alignItems: 'center',
     },
@@ -313,7 +313,7 @@ const styles = StyleSheet.create({
         borderColor: '#FFFFFF',
         paddingVertical: 6,
         paddingHorizontal: 12,
-        backgroundColor: '#181818',
+        backgroundColor: '#131313',
         shadowColor: '#000000',
         shadowOffset: { width: 0, height: 0 },
         shadowOpacity: 0.25,
@@ -345,7 +345,7 @@ const styles = StyleSheet.create({
         left: 16,
         right: 16,
         height: 52,
-        borderRadius: 12,
+        borderRadius: 14,
         backgroundColor: '#FFFFFF',
         alignItems: 'center',
         justifyContent: 'center'

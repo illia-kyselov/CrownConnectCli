@@ -43,7 +43,7 @@ const styles = StyleSheet.create({
         height: 92,
         borderTopRightRadius: 16,
         borderBottomRightRadius: 16,
-        backgroundColor: '#151515',
+        backgroundColor: '#1a1a1a',
         padding: 16,
         justifyContent: 'space-between',
         overflow: 'hidden'
@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
         fontFamily: 'SF Pro Display',
         fontWeight: '400',
         fontSize: 12,
-        color: '#999999',
+        color: '#a9a9a9',
     },
     eventName: {
         fontFamily: 'SF Pro Display',
@@ -74,6 +74,6 @@ const styles = StyleSheet.create({
         fontFamily: 'SF Pro Display',
         fontWeight: '400',
         fontSize: 12,
-        color: '#999999',
+        color: '#a9a9a9',
     },
 });

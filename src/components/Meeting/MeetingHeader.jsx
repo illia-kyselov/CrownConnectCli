@@ -122,7 +122,7 @@ export default function MeetingHeader({
 
 const styles = StyleSheet.create({
     header: {
-        backgroundColor: '#181818',
+        backgroundColor: '#131313',
         borderBottomRightRadius: 16,
         borderBottomLeftRadius: 16,
         paddingHorizontal: 16,
@@ -143,8 +143,8 @@ const styles = StyleSheet.create({
     },
     tabContainer: {
         height: 40,
-        borderRadius: 12,
-        backgroundColor: '#292929',
+        borderRadius: 14,
+        backgroundColor: '#212121',
         padding: 2,
         flexDirection: 'row',
         alignItems: 'center',
@@ -152,7 +152,7 @@ const styles = StyleSheet.create({
     tabButton: {
         flex: 1,
         height: 36,
-        borderRadius: 12,
+        borderRadius: 14,
         justifyContent: 'center',
         alignItems: 'center',
     },

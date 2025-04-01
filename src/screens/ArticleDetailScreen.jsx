@@ -49,7 +49,7 @@ const styles = StyleSheet.create({
     },
     articleImage: {
         height: 235,
-        borderRadius: 16,
+        borderRadius: 18,
         marginBottom: 22,
         width: '100%',
         resizeMode: 'cover',

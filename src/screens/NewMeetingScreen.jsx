@@ -370,9 +370,9 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
         alignItems: 'center',
         height: 52,
-        borderRadius: 12,
+        borderRadius: 14,
         padding: 20,
-        backgroundColor: '#181818',
+        backgroundColor: '#131313',
         marginBottom: 24,
     },
     textInput: {
@@ -387,16 +387,16 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
         alignItems: 'center',
         height: 52,
-        borderRadius: 12,
+        borderRadius: 14,
         padding: 16,
-        backgroundColor: '#181818',
+        backgroundColor: '#131313',
         marginBottom: 24,
     },
     icon: {
         marginRight: 12,
     },
     placeholderText: {
-        color: '#999999',
+        color: '#a9a9a9',
         flex: 1,
     },
     dateText: {
@@ -412,9 +412,9 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
         alignItems: 'center',
         height: 52,
-        borderRadius: 12,
+        borderRadius: 14,
         padding: 16,
-        backgroundColor: '#181818',
+        backgroundColor: '#131313',
     },
     timeText: {
         color: '#FFFFFF',
@@ -433,10 +433,10 @@ const styles = StyleSheet.create({
     photoContainer: {
         width: 100,
         height: 100,
-        borderRadius: 16,
+        borderRadius: 18,
         borderWidth: 1,
         borderColor: '#0000004D',
-        backgroundColor: '#181818',
+        backgroundColor: '#131313',
         justifyContent: 'center',
         alignItems: 'center',
         marginBottom: 24,
@@ -446,7 +446,7 @@ const styles = StyleSheet.create({
         flex: 1,
         width: '100%',
         height: '100%',
-        borderRadius: 16,
+        borderRadius: 18,
         resizeMode: 'cover',
     },
     photoCancelButton: {
@@ -458,8 +458,8 @@ const styles = StyleSheet.create({
         position: 'absolute',
         top: -6,
         right: -6,
-        backgroundColor: '#181818',
-        borderRadius: 12,
+        backgroundColor: '#131313',
+        borderRadius: 14,
         padding: 4,
     },
     bottomContainer: {
@@ -467,7 +467,7 @@ const styles = StyleSheet.create({
         bottom: 0,
         left: 0,
         right: 0,
-        backgroundColor: '#181818',
+        backgroundColor: '#131313',
         height: 114,
         justifyContent: 'center',
         alignItems: 'center',
@@ -475,14 +475,14 @@ const styles = StyleSheet.create({
     },
     saveButton: {
         height: 52,
-        borderRadius: 12,
+        borderRadius: 14,
         backgroundColor: '#FFFFFF',
         justifyContent: 'center',
         alignItems: 'center',
         width: '100%',
     },
     saveButtonDisabled: {
-        backgroundColor: '#CCCCCC',
+        backgroundColor: '#d3d3d3',
     },
     saveButtonText: {
         fontFamily: 'SF Pro Text',
@@ -517,7 +517,7 @@ const styles = StyleSheet.create({
     modalDoneText: {
         fontFamily: 'SF Pro',
         fontSize: 16,
-        color: '#C9890B',
+        color: '#e19100',
     },
     modalContent: {
         padding: 16,

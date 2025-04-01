@@ -124,7 +124,7 @@ export default function MeetingScreen() {
 const styles = StyleSheet.create({
     topSafeArea: {
         flex: 0,
-        backgroundColor: '#181818',
+        backgroundColor: '#131313',
     },
     bottomSafeArea: {
         flex: 1,
@@ -136,7 +136,7 @@ const styles = StyleSheet.create({
         left: 16,
         right: 16,
         height: 52,
-        borderRadius: 12,
+        borderRadius: 14,
         backgroundColor: '#FFFFFF',
         alignItems: 'center',
         justifyContent: 'center',

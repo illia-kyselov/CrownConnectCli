@@ -200,7 +200,7 @@ const styles = StyleSheet.create({
         fontFamily: 'SF Pro Text',
         fontWeight: '400',
         fontSize: 16,
-        color: '#999999',
+        color: '#a9a9a9',
     },
     sectionTitle: {
         fontFamily: 'SF Pro',
@@ -219,7 +219,7 @@ const styles = StyleSheet.create({
         position: 'absolute',
         bottom: 0,
         width: '100%',
-        backgroundColor: '#181818',
+        backgroundColor: '#131313',
         paddingVertical: 26,
         alignItems: 'center',
         paddingHorizontal: 16,
@@ -227,7 +227,7 @@ const styles = StyleSheet.create({
     bottomButton: {
         width: '100%',
         height: 48,
-        borderRadius: 12,
+        borderRadius: 14,
         backgroundColor: '#FFFFFF',
         justifyContent: 'center',
         alignItems: 'center',
@@ -244,7 +244,7 @@ const styles = StyleSheet.create({
         justifyContent: 'flex-end',
     },
     modalContent: {
-        backgroundColor: '#292929',
+        backgroundColor: '#212121',
         borderTopLeftRadius: 14,
         borderTopRightRadius: 14,
         paddingBottom: 16,
@@ -252,8 +252,8 @@ const styles = StyleSheet.create({
         paddingHorizontal: 12,
     },
     modalButtonWrapper: {
-        backgroundColor: '#292929',
-        borderRadius: 14,
+        backgroundColor: '#212121',
+        borderRadius: 16,
         overflow: 'hidden',
     },
     modalButton: {
@@ -278,8 +278,8 @@ const styles = StyleSheet.create({
         color: '#FF3B30',
     },
     modalButtonCancel: {
-        backgroundColor: '#292929',
-        borderRadius: 14,
+        backgroundColor: '#212121',
+        borderRadius: 16,
         alignItems: 'center',
         justifyContent: 'center',
         paddingVertical: 16,

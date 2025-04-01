@@ -446,7 +446,7 @@ const styles = StyleSheet.create({
         fontFamily: 'SF Pro',
         fontWeight: '400',
         fontSize: 16,
-        color: '#C9890B',
+        color: '#e19100',
         marginRight: 4,
     },
     commentsRow: {
@@ -501,7 +501,7 @@ const styles = StyleSheet.create({
     inputContainer: {
         flexDirection: 'row',
         alignItems: 'center',
-        backgroundColor: '#151515',
+        backgroundColor: '#1a1a1a',
         borderRadius: 8,
         paddingHorizontal: 12,
         marginBottom: 12,
@@ -534,14 +534,14 @@ const styles = StyleSheet.create({
         bottom: 0,
         left: 0,
         right: 0,
-        backgroundColor: '#181818',
+        backgroundColor: '#131313',
         padding: 16,
         justifyContent: 'flex-end',
         paddingBottom: 50,
     },
     addButton: {
         height: 52,
-        borderRadius: 12,
+        borderRadius: 14,
         backgroundColor: '#FFFFFF',
         justifyContent: 'center',
         alignItems: 'center',
@@ -555,7 +555,7 @@ const styles = StyleSheet.create({
     },
     closeButton: {
         height: 52,
-        borderRadius: 12,
+        borderRadius: 14,
         borderWidth: 1,
         borderColor: '#FFFFFF',
         backgroundColor: 'transparent',
@@ -574,7 +574,7 @@ const styles = StyleSheet.create({
         justifyContent: 'flex-end',
     },
     modalContent: {
-        backgroundColor: '#292929',
+        backgroundColor: '#212121',
         borderTopLeftRadius: 14,
         borderTopRightRadius: 14,
         paddingBottom: 16,
@@ -582,8 +582,8 @@ const styles = StyleSheet.create({
         paddingHorizontal: 12,
     },
     modalButtonWrapper: {
-        backgroundColor: '#292929',
-        borderRadius: 14,
+        backgroundColor: '#212121',
+        borderRadius: 16,
         overflow: 'hidden',
     },
     modalButton: {
@@ -608,8 +608,8 @@ const styles = StyleSheet.create({
         color: '#FF3B30',
     },
     modalButtonCancel: {
-        backgroundColor: '#292929',
-        borderRadius: 14,
+        backgroundColor: '#212121',
+        borderRadius: 16,
         alignItems: 'center',
         justifyContent: 'center',
         paddingVertical: 16,

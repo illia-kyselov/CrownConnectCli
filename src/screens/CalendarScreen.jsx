@@ -75,7 +75,7 @@ export default function CalendarScreen() {
                     <Calendar
                         style={styles.calendar}
                         theme={{
-                            backgroundColor: '#181818',
+                            backgroundColor: '#131313',
                             calendarBackground: '#181818',
                             dayTextColor: '#FFF',
                             textSectionTitleColor: '#FFF',
@@ -119,7 +119,7 @@ const styles = StyleSheet.create({
         backgroundColor: '#000'
     },
     navBar: {
-        backgroundColor: '#181818',
+        backgroundColor: '#131313',
         borderBottomRightRadius: 16,
         borderBottomLeftRadius: 16,
         height: 65,
@@ -135,7 +135,7 @@ const styles = StyleSheet.create({
         color: '#FFFFFF'
     },
     calendarContainer: {
-        backgroundColor: '#181818',
+        backgroundColor: '#131313',
         borderRadius: 24,
         paddingTop: 12,
         paddingBottom: 12,
@@ -154,7 +154,7 @@ const styles = StyleSheet.create({
     },
     showDateButton: {
         height: 52,
-        borderRadius: 12,
+        borderRadius: 14,
         backgroundColor: '#FFFFFF',
         paddingHorizontal: 20,
         justifyContent: 'center',

@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
     },
     card: {
         height: 177,
-        borderRadius: 16,
+        borderRadius: 18,
         overflow: 'hidden',
         justifyContent: 'flex-end',
     },

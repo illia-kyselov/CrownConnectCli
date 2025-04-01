@@ -14,7 +14,7 @@ export default function EmptyMeetings({ text = 'There aren’t any meetings yet,
 
 const styles = StyleSheet.create({
     container: {
-        height: 74,
+        height: 84,
         alignItems: 'center',
         justifyContent: 'center',
         marginTop: 86,

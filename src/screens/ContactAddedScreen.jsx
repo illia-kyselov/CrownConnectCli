@@ -71,7 +71,7 @@ const styles = StyleSheet.create({
     },
     closeButton: {
         height: 52,
-        borderRadius: 12,
+        borderRadius: 14,
         backgroundColor: '#FFFFFF',
         justifyContent: 'center',
         alignItems: 'center',

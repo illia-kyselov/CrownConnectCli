@@ -98,8 +98,8 @@ const styles = StyleSheet.create({
     allContactsCard: {
         minHeight: 92,
         minWidth: 320,
-        borderRadius: 16,
-        backgroundColor: '#151515',
+        borderRadius: 18,
+        backgroundColor: '#1a1a1a',
         padding: 16,
         justifyContent: 'space-between',
         overflow: 'hidden',
@@ -119,7 +119,7 @@ const styles = StyleSheet.create({
         fontFamily: 'SF Pro Display',
         fontWeight: '400',
         fontSize: 12,
-        color: '#999999',
+        color: '#a9a9a9',
     },
     eventName: {
         fontFamily: 'SF Pro Display',
@@ -135,6 +135,6 @@ const styles = StyleSheet.create({
         fontFamily: 'SF Pro Display',
         fontWeight: '400',
         fontSize: 12,
-        color: '#999999',
+        color: '#a9a9a9',
     },
 });

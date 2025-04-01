@@ -25,7 +25,7 @@ export default function BottomTabNavigator() {
                     left: 0,
                     right: 0,
                     height: 102,
-                    backgroundColor: '#181818',
+                    backgroundColor: '#131313',
                     borderTopLeftRadius: 16,
                     borderTopRightRadius: 16,
                     paddingTop: 8,

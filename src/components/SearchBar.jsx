@@ -54,7 +54,7 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
         alignItems: 'center',
         borderRadius: 100,
-        backgroundColor: '#292929',
+        backgroundColor: '#212121',
         borderWidth: 1,
         borderColor: '#57555533',
         paddingHorizontal: 16,

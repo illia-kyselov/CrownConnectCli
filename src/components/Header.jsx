@@ -14,7 +14,7 @@ export default function Header({ title }) {
 
 const styles = StyleSheet.create({
     header: {
-        backgroundColor: '#181818',
+        backgroundColor: '#131313',
         borderBottomRightRadius: 16,
         borderBottomLeftRadius: 16,
         alignItems: 'center',
